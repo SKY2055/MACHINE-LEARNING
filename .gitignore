@@ -1,0 +1,21 @@
+# Ignore large CSV and Excel files
+*.csv
+*.xlsx
+*.xls
+
+# Ignore temporary or unnecessary files
+*.log
+*.tmp
+*.bak
+*.DS_Store
+
+# Ignore virtual environment folders
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Ignore machine learning model checkpoints if any
+*.h5
+*.pt
+*.ckpt
