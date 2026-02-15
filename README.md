@@ -1,7 +1,7 @@
 # MACHINE LEARNING Project
 
 ## Description
-This repository contains the code and scripts for Machine Learning experiments.  
+This repository contains the Python code and scripts for Machine Learning experiments.  
 
 ## Important Guidelines
 To keep the repository clean and lightweight:
