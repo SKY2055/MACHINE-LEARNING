@@ -19,3 +19,15 @@ __pycache__/
 *.h5
 *.pt
 *.ckpt
+.venv_new/
+.venv/
+__pycache__/
+.env
+
+# Ignore Documents and Images
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.gif
